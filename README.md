@@ -34,9 +34,11 @@ Potential attacker objectives:
 
 ---
 
-## Demo Video
+## 🎥 Demo Video
 
-▶️ Add video here
+[![Rapid7 Agent Installation](./thumbnail.png)](https://youtube.com/watch?v=fEoWTNWLays)
+
+Click image to watch demo.
 
 ---
 
